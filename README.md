@@ -1,0 +1,2 @@
+# YoudaoDictBookToExcel
+从有道词典导出xml格式单词本，并转换成excel文件，可用于Quizlet等网站制作生词卡
